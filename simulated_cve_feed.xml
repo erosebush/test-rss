@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Simulated Security Advisories</title>
+    <description>Simulated CVE feed for testing purposes.</description>
+    <link>https://example.com/simulated-cve</link>
+    <item>
+      <title>SIMULATED CVE: PAN-OS Test Vulnerability CVE-9999-12345</title>
+      <description>This is a test CVE item to simulate feed automation.</description>
+      <pubDate>Mon, 12 May 2025 18:44:06 GMT</pubDate>
+      <link>https://security.paloaltonetworks.com/CVE-9999-12345</link>
+      <guid isPermaLink="false">simulated-cve-12345</guid>
+    </item>
+
+    <item>
+      <title>Test CVE: PAN-OS - Critical Vulnerability CVE-2025-12345</title>
+      <link>https://example.com/test-critical</link>
+      <description>Severity: Critical</description>
+      <pubDate>Mon, 12 May 2025 12:00:00 GMT</pubDate>
+      <guid>cve-2025-12345</guid>
+    </item>
+
+    <item>
+      <title>Test CVE: PAN-OS - Critical Vulnerability CVE-2025-12345</title>
+      <link>https://example.com/test-critical</link>
+      <description>Severity: Critical</description>
+      <pubDate>Mon, 12 May 2025 12:00:00 GMT</pubDate>
+      <guid>cve-2025-12345</guid>
+    </item>
+
+  </channel>
+</rss>
