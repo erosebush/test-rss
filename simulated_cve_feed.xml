@@ -41,8 +41,8 @@
       <title>Test CVE: PAN-OS - Critical Vulnerability CVE-2025-12345</title>
       <link>https://example.com/test-critical</link>
       <description>Severity: Critical</description>
-      <pubDate>Mon, 12 May 2025 12:00:00 GMT</pubDate>
-      <guid>cve-2025-12345</guid>
+      <pubDate>Mon, 12 March 2025 12:00:00 GMT</pubDate>
+      <guid>cve-2025-1232342342345</guid>
     </item>
     
   </channel>
