@@ -29,5 +29,13 @@
       <guid>simulated-cve-77777</guid>
     </item>
 
+    <item>
+  <title>SIMULATED CVE: PAN-OS New Test Vulnerability CVE-9999-123456</title>
+  <description>Severity: Critical</description>
+  <pubDate>Mon, 12 May 2025 23:30:00 GMT</pubDate>
+  <link>https://security.paloaltonetworks.com/CVE-9999-123456</link>
+  <guid>simulated-cve-123456</guid>
+</item>
+    
   </channel>
 </rss>
