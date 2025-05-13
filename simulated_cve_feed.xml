@@ -1,49 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <item>
-      <title>SIMULATED CVE: PAN-OS Ultra Critical Vulnerability CVE-9999-54321</title>
-      <description>Severity: Critical</description>
-      <pubDate>Tue, 14 May 2025 18:30:00 GMT</pubDate>
-      <link>https://security.paloaltonetworks.com/CVE-9999-54321</link>
-      <guid>simulated-cve-54321</guid>
-    </item>
-    
     <title>Simulated Security Advisories</title>
     <description>Simulated CVE feed for testing purposes.</description>
     <link>https://example.com/simulated-cve</link>
 
     <item>
-      <title>SIMULATED CVE: PAN-OS Test Vulnerability CVE-9999-99999</title>
+      <title>SIMULATED CVE: PAN-OS Critical Vulnerability CVE-9999-00001</title>
       <description>Severity: Critical</description>
-      <pubDate>Mon, 12 May 2025 20:44:00 GMT</pubDate>
-      <link>https://security.paloaltonetworks.com/CVE-9999-99999</link>
-      <guid>simulated-cve-99999</guid>
+      <pubDate>Tue, 13 May 2025 18:55:00 GMT</pubDate>
+      <link>https://security.paloaltonetworks.com/CVE-9999-00001</link>
+      <guid>simulated-cve-00001</guid>
     </item>
-
-    <item>
-      <title>SIMULATED CVE: PAN-OS High Vulnerability CVE-9999-88888</title>
-      <description>Severity: High</description>
-      <pubDate>Mon, 12 May 2025 21:00:00 GMT</pubDate>
-      <link>https://security.paloaltonetworks.com/CVE-9999-88888</link>
-      <guid>simulated-cve-88888</guid>
-    </item>
-
-    <item>
-      <title>SIMULATED CVE: PAN-OS Medium Vulnerability CVE-9999-77777</title>
-      <description>Severity: Medium</description>
-      <pubDate>Mon, 12 May 2025 22:00:00 GMT</pubDate>
-      <link>https://security.paloaltonetworks.com/CVE-9999-77777</link>
-      <guid>simulated-cve-77777</guid>
-    </item>
-
-    <item>
-  <title>SIMULATED CVE: PAN-OS New Test Vulnerability CVE-9999-123456</title>
-  <description>Severity: Critical</description>
-  <pubDate>Mon, 12 May 2025 23:30:00 GMT</pubDate>
-  <link>https://security.paloaltonetworks.com/CVE-9999-123456</link>
-  <guid>simulated-cve-123456</guid>
-</item>
     
   </channel>
 </rss>
