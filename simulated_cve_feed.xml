@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
+    <item>
+      <title>SIMULATED CVE: PAN-OS Ultra Critical Vulnerability CVE-9999-54321</title>
+      <description>Severity: Critical</description>
+      <pubDate>Tue, 14 May 2025 18:30:00 GMT</pubDate>
+      <link>https://security.paloaltonetworks.com/CVE-9999-54321</link>
+      <guid>simulated-cve-54321</guid>
+    </item>
+    
     <title>Simulated Security Advisories</title>
     <description>Simulated CVE feed for testing purposes.</description>
     <link>https://example.com/simulated-cve</link>
